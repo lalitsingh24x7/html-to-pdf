@@ -13,4 +13,6 @@ Follow these steps to set up and run the application on your local machine:
 3. pdfkit
 4. wkhtmltopdf
 
+   
+https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox-0.12.6-1.centos7.x86_64.rpm
 
